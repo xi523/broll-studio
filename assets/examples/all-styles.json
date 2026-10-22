@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "scenes": [
+    {
+      "title": "职业发展不只有一条路",
+      "root": "已有经验",
+      "items": [
+        {
+          "label": "深入专业"
+        },
+        {
+          "label": "跨领域合作"
+        },
+        {
+          "label": "独立项目"
+        }
+      ],
+      "id": "style-01",
+      "style": "warm-gold",
+      "layout": "branch",
+      "duration": 4,
+      "source_text": "职业发展不只有一条路"
+    },
+    {
+      "title": "一餐的准备清单",
+      "items": [
+        {
+          "label": "备齐食材",
+          "detail": "按食谱称量"
+        },
+        {
+          "label": "分装调料",
+          "detail": "先准备再烹饪"
+        },
+        {
+          "label": "整理台面",
+          "detail": "留下操作空间"
+        }
+      ],
+      "id": "style-02",
+      "style": "cream-paper",
+      "layout": "cards",
+      "duration": 4,
+      "source_text": "一餐的准备清单"
+    },
+    {
+      "eyebrow": "关于学习",
+      "items": [
+        {
+          "label": "先理解"
+        },
+        {
+          "label": "再练习"
+        },
+        {
+          "label": "最后，讲给别人听"
+        }
+      ],
+      "id": "style-03",
+      "style": "black-gold",
+      "layout": "kinetic",
+      "duration": 4,
+      "source_text": "关于学习"
+    },
+    {
+      "title": "两种整理资料的方法",
+      "items": [
+        {
+          "label": "按来源收藏",
+          "detail": "方便回看出处"
+        },
+        {
+          "label": "按问题归类",
+          "detail": "方便下次查找"
+        }
+      ],
+      "id": "style-04",
+      "style": "lemon-tech",
+      "layout": "compare",
+      "duration": 4,
+      "source_text": "两种整理资料的方法"
+    },
+    {
+      "title": "一场活动，需要哪些协作？",
+      "center": "活动筹备",
+      "items": [
+        {
+          "label": "内容"
+        },
+        {
+          "label": "场地"
+        },
+        {
+          "label": "时间"
+        },
+        {
+          "label": "参与者"
+        }
+      ],
+      "id": "style-05",
+      "style": "flat-science",
+      "layout": "orbit",
+      "duration": 4,
+      "source_text": "一场活动，需要哪些协作？"
+    },
+    {
+      "title": "两个方向的周期运动",
+      "shape": "lissajous",
+      "fourier": true,
+      "terms": 12,
+      "footer": "示意：水平与垂直运动叠加",
+      "id": "style-06",
+      "style": "dark-math",
+      "layout": "trace",
+      "duration": 4,
+      "source_text": "两个方向的周期运动"
+    },
+    {
+      "title": "观察曲面如何接住光",
+      "object": "ring",
+      "footer": "程序几何示意，并非真实商品",
+      "id": "style-07",
+      "style": "minimal-launch",
+      "layout": "product",
+      "duration": 4,
+      "source_text": "观察曲面如何接住光"
+    },
+    {
+      "title": "给植物换盆的准备",
+      "items": [
+        {
+          "label": "备好新盆"
+        },
+        {
+          "label": "整理根系"
+        },
+        {
+          "label": "填土固定"
+        }
+      ],
+      "footer": "具体操作需按植物品种调整",
+      "id": "style-08",
+      "style": "whiteboard",
+      "layout": "process",
+      "duration": 4,
+      "source_text": "给植物换盆的准备"
+    },
+    {
+      "eyebrow": "CREATIVE PRACTICE",
+      "items": [
+        {
+          "label": "Make a small start"
+        },
+        {
+          "label": "Turn ideas into motion"
+        }
+      ],
+      "id": "style-09",
+      "style": "neon-glitch",
+      "layout": "kinetic",
+      "duration": 4,
+      "source_text": "CREATIVE PRACTICE"
+    },
+    {
+      "title": "给自己一点空白",
+      "quote": "走慢一点，也是在向前。",
+      "id": "style-10",
+      "style": "ink-wash",
+      "layout": "landscape",
+      "duration": 4,
+      "source_text": "给自己一点空白"
+    },
+    {
+      "title": "阅读时长记录",
+      "items": [
+        {
+          "label": "周一",
+          "value": 20
+        },
+        {
+          "label": "周二",
+          "value": 35
+        },
+        {
+          "label": "周三",
+          "value": 45,
+          "highlight": true
+        }
+      ],
+      "unit": "分钟",
+      "example_data": true,
+      "data_note": "示例数据，仅演示图表动画",
+      "id": "style-11",
+      "style": "data-news",
+      "layout": "bars",
+      "duration": 4,
+      "source_text": "阅读时长记录"
+    },
+    {
+      "title": "把练习拆成小关卡",
+      "items": [
+        {
+          "label": "读懂例题"
+        },
+        {
+          "label": "独立尝试"
+        },
+        {
+          "label": "复盘错误"
+        }
+      ],
+      "id": "style-12",
+      "style": "pixel",
+      "layout": "journey",
+      "duration": 4,
+      "source_text": "把练习拆成小关卡"
+    },
+    {
+      "title": "把列表里的数字翻倍",
+      "code": [
+        "values = [1, 2, 3]",
+        "result = [x * 2 for x in values]",
+        "print(result)"
+      ],
+      "footer": "代码展示，不代表本工具执行了此代码",
+      "id": "style-13",
+      "style": "code-editor",
+      "layout": "code",
+      "duration": 4,
+      "source_text": "把列表里的数字翻倍"
+    },
+    {
+      "title": "把线条想象成空间",
+      "object": "knot",
+      "footer": "抽象几何与简化光照",
+      "id": "style-14",
+      "style": "soft-3d",
+      "layout": "product",
+      "duration": 4,
+      "source_text": "把线条想象成空间"
+    },
+    {
+      "title": "把读书笔记整理成卡片",
+      "items": [
+        {
+          "label": "记录一个问题"
+        },
+        {
+          "label": "摘出关键解释"
+        },
+        {
+          "label": "写下自己的例子"
+        }
+      ],
+      "callout": "从收藏，走向理解",
+      "id": "style-15",
+      "style": "social-gradient",
+      "layout": "phone",
+      "duration": 4,
+      "source_text": "把读书笔记整理成卡片"
+    }
+  ]
+}

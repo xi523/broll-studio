@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "scenes": [
+    {
+      "id": "learn",
+      "style": "black-gold",
+      "layout": "kinetic",
+      "duration": 6,
+      "source_text": "学习一个概念，先读懂，再练习，最后尝试讲给别人听。",
+      "items": [
+        {
+          "label": "先读懂"
+        },
+        {
+          "label": "再练习"
+        },
+        {
+          "label": "尝试讲给别人听"
+        }
+      ]
+    },
+    {
+      "id": "options",
+      "style": "warm-gold",
+      "layout": "branch",
+      "duration": 6,
+      "title": "复习也可以有不同方式",
+      "root": "回顾知识",
+      "source_text": "复习时，可以回看笔记，尝试解释，也可以做练习检查理解。",
+      "items": [
+        {
+          "label": "回看笔记"
+        },
+        {
+          "label": "尝试解释"
+        },
+        {
+          "label": "练习检验"
+        }
+      ]
+    }
+  ]
+}

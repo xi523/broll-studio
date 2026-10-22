@@ -1,0 +1,202 @@
+{
+  "warm-gold": {
+    "id": "BR-001",
+    "name": "暗底暖金",
+    "bg": "#100e0b",
+    "fg": "#f3e5c8",
+    "accent": "#dfbf7f",
+    "panel": "#29251e",
+    "default_layout": "branch",
+    "type": "serif",
+    "texture": "dust",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule",
+    "motion_direction": [
+      "可辨主体的空间聚合分离",
+      "暖光层次与视差",
+      "描线辅助动作"
+    ]
+  },
+  "cream-paper": {
+    "id": "BR-002",
+    "name": "奶油手绘",
+    "bg": "#f4efdf",
+    "fg": "#373039",
+    "accent": "#dc9878",
+    "panel": "#fffaf0",
+    "default_layout": "cards",
+    "type": "main",
+    "texture": "paper",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule",
+    "motion_direction": [
+      "按脚本绘制对象而非默认纸卡",
+      "剪折贴翻擦",
+      "纸层阴影与不规则轮廓"
+    ]
+  },
+  "black-gold": {
+    "id": "BR-003",
+    "name": "黑金",
+    "bg": "#050505",
+    "fg": "#fff6e7",
+    "accent": "#efd085",
+    "panel": "#181715",
+    "default_layout": "kinetic",
+    "type": "main",
+    "texture": "rays",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule",
+    "motion_direction": [
+      "关键词空间推进",
+      "重音落点与短句停留",
+      "复杂字形穿梭需定制组件"
+    ]
+  },
+  "lemon-tech": {
+    "id": "BR-004",
+    "name": "柠檬黄科技",
+    "bg": "#e8e284",
+    "fg": "#181b14",
+    "accent": "#5b6538",
+    "panel": "#fff9d9",
+    "default_layout": "cards",
+    "type": "serif",
+    "texture": "grid",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule",
+    "motion_direction": [
+      "分层与轨道分流",
+      "吸附与参数结果联动",
+      "网格编号辅助定位"
+    ]
+  },
+  "flat-science": {
+    "id": "BR-005",
+    "name": "扁平科普插画",
+    "bg": "#233366",
+    "fg": "#f4f7ff",
+    "accent": "#ffd16a",
+    "panel": "#354a80",
+    "default_layout": "orbit",
+    "type": "main",
+    "texture": "dots",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "dark-math": {
+    "id": "BR-006",
+    "name": "暗底数学可视化",
+    "bg": "#0c1420",
+    "fg": "#e5edf5",
+    "accent": "#ffd079",
+    "panel": "#1c2a39",
+    "default_layout": "trace",
+    "type": "main",
+    "texture": "grid",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "minimal-launch": {
+    "id": "BR-007",
+    "name": "极简发布会",
+    "bg": "#030405",
+    "fg": "#f4f6fc",
+    "accent": "#a7b9e2",
+    "panel": "#181d27",
+    "default_layout": "product",
+    "type": "main",
+    "texture": "plain",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "whiteboard": {
+    "id": "BR-008",
+    "name": "手绘白板",
+    "bg": "#faf7ed",
+    "fg": "#303537",
+    "accent": "#dd936d",
+    "panel": "#f0dfb4",
+    "default_layout": "process",
+    "type": "main",
+    "texture": "paper",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "neon-glitch": {
+    "id": "BR-009",
+    "name": "复古霓虹故障",
+    "bg": "#110b28",
+    "fg": "#b9f8ff",
+    "accent": "#f26bc9",
+    "panel": "#251344",
+    "default_layout": "kinetic",
+    "type": "main",
+    "texture": "neon",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "ink-wash": {
+    "id": "BR-010",
+    "name": "宣纸水墨",
+    "bg": "#f0ecdf",
+    "fg": "#33352f",
+    "accent": "#ba5f46",
+    "panel": "#dfdacd",
+    "default_layout": "landscape",
+    "type": "serif",
+    "texture": "paper",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "data-news": {
+    "id": "BR-011",
+    "name": "暗底数据新闻",
+    "bg": "#0b1021",
+    "fg": "#f1f4ff",
+    "accent": "#f08e7a",
+    "panel": "#7086c9",
+    "default_layout": "bars",
+    "type": "main",
+    "texture": "grid",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "pixel": {
+    "id": "BR-012",
+    "name": "8-bit像素",
+    "bg": "#7dc6ed",
+    "fg": "#142f4c",
+    "accent": "#f4c64b",
+    "panel": "#d6edf7",
+    "default_layout": "journey",
+    "type": "main",
+    "texture": "pixel",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "code-editor": {
+    "id": "BR-013",
+    "name": "代码演示",
+    "bg": "#0c1320",
+    "fg": "#e5edf4",
+    "accent": "#e5b677",
+    "panel": "#1c2635",
+    "default_layout": "code",
+    "type": "mono",
+    "texture": "grid",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "soft-3d": {
+    "id": "BR-014",
+    "name": "柔光立体几何",
+    "bg": "#f4e6d9",
+    "fg": "#51423b",
+    "accent": "#db9366",
+    "panel": "#fff8f0",
+    "default_layout": "product",
+    "type": "main",
+    "texture": "soft",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  },
+  "social-gradient": {
+    "id": "BR-015",
+    "name": "渐变社交界面",
+    "bg": "#231236",
+    "fg": "#fff2ff",
+    "accent": "#efadce",
+    "panel": "#493263",
+    "default_layout": "phone",
+    "type": "main",
+    "texture": "social",
+    "layout_note": "default_layout is an interface example, not a scene-selection rule"
+  }
+}

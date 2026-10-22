@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "width": 720,
+  "height": 1280,
+  "fps": 24,
+  "style": "whiteboard",
+  "scenes": [
+    {
+      "id": "prep",
+      "layout": "process",
+      "duration": 6,
+      "title": "先准备，再开始",
+      "source_text": "开始做饭前，先切好食材，分装调料，最后整理出台面的操作空间。",
+      "items": [
+        {
+          "label": "切好食材",
+          "detail": "按食谱处理"
+        },
+        {
+          "label": "分装调料",
+          "detail": "放在顺手的位置"
+        },
+        {
+          "label": "整理台面",
+          "detail": "留下操作空间"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "style": "cream-paper",
+      "layout": "compare",
+      "duration": 5,
+      "title": "把事情提前安排好",
+      "source_text": "把准备集中完成，烹饪时就能更专注于当前步骤。",
+      "items": [
+        {
+          "label": "准备阶段",
+          "detail": "集中处理材料"
+        },
+        {
+          "label": "烹饪阶段",
+          "detail": "专注当前步骤"
+        }
+      ]
+    }
+  ]
+}

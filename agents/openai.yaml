@@ -1,0 +1,4 @@
+interface:
+  display_name: "B-roll 风格工作室"
+  short_description: "把口播中的主体、动作和结果演出来，支持十五种画风与定制场景"
+  default_prompt: "使用 $broll-studio，先按我的口播设计主体、动作和结果，再按所选画风实现动画；避免只换配色、文字卡片和装饰线条，检查真实节奏并交付素材与组件。"
